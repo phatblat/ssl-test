@@ -1,0 +1,16 @@
+.DS_Store
+*.xccheckout
+*.xcscmblueprint
+xcuserdata
+Carthage/
+Pods/
+.rubygems/
+bin/
+.DS_Store
+*.xccheckout
+*.xcscmblueprint
+xcuserdata
+Carthage/
+Pods/
+.rubygems/
+bin/
